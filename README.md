@@ -7,7 +7,7 @@
 
 ![WhatsApp Image 2024-04-23 at 12 41 16_cf46a627](https://github.com/Uchihaobitosama/Electronic-sales_report-/assets/151924417/a1470750-c738-44f9-894e-32725eef01fd)
 
-The majority of sales, 57.23%, come from in-store purchases totaling 32.2 million. Online sales account for 20.7% at 11.7 million, followed by reseller sales at 12.98% with #7.3 million, and catalog sales at 9% totaling #5.1 million.
+The majority of sales, 57.23%, come from in-store purchases totaling #32.2 million. Online sales account for 20.7% at #11.7 million, followed by reseller sales at 12.98% with #7.3 million, and catalog sales at 9% totaling #5.1 million.
 
 ![WhatsApp Image 2024-04-23 at 12 43 53_ee677531](https://github.com/Uchihaobitosama/Electronic-sales_report-/assets/151924417/8a0da4ba-25ca-4f97-ad28-a260f2cacb16)
 
